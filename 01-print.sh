@@ -8,3 +8,5 @@ echo nice
 echo cool
 echo awesome
 echo amazing
+echo world
+echo newyear
